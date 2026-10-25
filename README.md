@@ -1,5 +1,4 @@
-
-Project 08 — Vehicle Rental Management System
+Vehicle Rental Management System
 Project Overview
 The Vehicle Rental Management System is a menu-driven Python application that demonstrates Object-Oriented Programming (OOP). It allows users to register vehicles, view vehicle availability, rent vehicles to customers, return vehicles, calculate rental charges, and view rental history.
 
